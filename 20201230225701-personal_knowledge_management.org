@@ -1,0 +1,16 @@
+#+title: Personal Knowledge Management
+
+* Resources (Draft)
+
+- [[https://en.wikipedia.org/wiki/Personal_knowledge_management][Wikipedia: Personal Knowledge Management]]
+
+* Methods
+** Second Brain
+** PARA
+*** Original blog post
+
+[[https://fortelabs.co/blog/para/][Fortelabs PARA blog]]
+
+*** Draft Summary
+
+Method to split personal documents, notes, ... into Projects, Areas, Responsibilites and Archive

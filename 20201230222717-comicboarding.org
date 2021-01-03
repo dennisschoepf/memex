@@ -1,0 +1,10 @@
+#+title: Comicboarding
+
+* Summary
+
+A variation of [[file:20201230232807-storyboarding.org][Storyboarding]] that focuses on giving a context to a scenario and putting it into a larger storyline. Aims to give structure and comfort by using a well-known format (comic panels). Isn't used that widely in [[file:20201230224436-human_computer_interaction.org][Human Computer Interaction]] and where it is used it mainly revolves around children as a target group ([[file:20201230230445-researching_with_children.org][Researching with Children]]). Sample applications shown below are mostly used in a [[file:20201230225610-participatory_design.org][Participatory Design]] context.
+
+* Applications
+
+- [[https://dl.acm.org/doi/pdf/10.1145/1240624.1240832][Comicboarding: Using Comics as Proxies for Participatory Design With Children]]
+- [[https://dl.acm.org/doi/pdf/10.1145/3025453.3025588][Co-Designing with Preschoolers Using Fictional Inquiry and Comicboarding]]

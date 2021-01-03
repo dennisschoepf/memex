@@ -1,0 +1,15 @@
+#+title: Org Mode
+
+* Introduction
+
+A major mode for [[file:20210101205120-emacs.org][Emacs]] that helps organizing a variety of different stuff. I use it mainly for building a [[file:20210101205239-second_brain.org][Second Brain]] and for an agenda to keep up with my deadlines
+
+* Noteworthy Org Mode configs
+** [[http://pages.sachachua.com/.emacs.d/Sacha.html][Sacha Chua]]
+** [[https://zzamboni.org/post/my-emacs-configuration-with-commentary/#org-mode][Zzamboni]]
+* Learning Resources
+** [[https://github.com/nickanderson/Level-up-your-notes-with-Org][Level up your notes with org-mode]]
+** [[http://sachachua.com/blog/2014/01/tips-learning-org-mode-emacs/][Tips for learning Org Mode for Emacs]]
+** [[http://sachachua.com/blog/category/emacs/][Sacha Chua's other articles]]
+** [[https://www.youtube.com/playlist?list=PLVtKhBrRV%5FZkPnBtt%5FTD1Cs9PJlU0IIdE][Rainer Koenig Org Mode Tutorial]]
+** [[https://www.youtube.com/watch?v=34zODp_lhqg][DistroTube Doom Emacs Org Mode]] (Specifically for [[file:20201230152829-doom_emacs.org][Doom Emacs]])

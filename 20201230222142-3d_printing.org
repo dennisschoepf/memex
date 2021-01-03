@@ -1,0 +1,15 @@
+#+title: 3D Printing
+
+* Materials
+** Wood Filaments
+*** Creation
+
+- Wood FDM filaments are developed by combining a suitable 3D printing polymer with microwood fibers `Correa, David, et al. "3D-Printed Wood: Programming hygroscopic material transformations." 3D Printing and Additive Manufacturing 2.3 (2015): 106-116.`
+
+*** Commercial
+
+- An example wood filament is a copolyester composite with high cellulose content (approx. 40%) that is commercially available under the name Laywood `Correa, David, et al. "3D-Printed Wood: Programming hygroscopic material transformations." 3D Printing and Additive Manufacturing 2.3 (2015): 106-116.`
+
+* Instructions & Collections
+
+- [[file:20201230225223-maker_community.org][Maker Community]]

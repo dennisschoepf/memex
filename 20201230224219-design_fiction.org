@@ -1,0 +1,5 @@
+#+title: Design Fiction
+
+* Draft
+
+A method to envision possible futures. Often critical (See Dunne & Raby)

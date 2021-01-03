@@ -1,0 +1,24 @@
+#+title: Maker Community
+
+* Summary
+
+A community of people that is defined by their love of "hands-on making, creating, designing, and innovating" [[https://doi.org/10.1177%2F003172171309500306][Maker Movement Spreads Innovation One Project At A Time]]. Practices include "textile craft, robotics, cooking, woodcrafts, electronics, digital fabrication, mechanical repair, or creation — in short, making nearly anything". The maker community is deeply investigating in sharing knowledge, either through makerspaces and in-person sharing or online resources (see chapter Collections). Techniques like [[file:20201230222142-3d_printing.org][3D Printing]] are often used to create something completly new.
+
+Also: [[https://www.mitpressjournals.org/doi/pdf/10.1162/INOV_a_00135][The Maker Movement]]
+
+* Collections & Instructions
+
+Following are collections of instructions and other resources that offer a wide variety of time-saving and inspiring approaches and techniques to making things.
+
+** Everything
+
+- [[https://www.instructables.com/projects/][Instructables]]
+
+** Laser Cutting
+
+- [[https://en.makercase.com/*/][Makercase]]
+
+** 3D Printing
+* Makerspaces
+
+Space where you can share knowledge, material and tools. Nearly in every bigger city.

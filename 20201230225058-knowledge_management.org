@@ -1,0 +1,5 @@
+#+title: Knowledge Management
+
+* Resources
+
+[[https://dl.acm.org/doi/10.1145/3359266][When Knowledge Network is Social Network]]

@@ -1,0 +1,51 @@
+#+title: Self Improvement
+
+* Principles
+** What really matters
+
+You can get lost easily in day-to-day work, short-term commitments and the pursuit of financial and consumerist goals. It should be important to take a break from time to time and check on what actually matters. I've tried to combine some different perspectives on what that could be.
+
+*** Looking back at your life
+
+In her book [[file:20210101210529-the_top_five_regrets_of_the_dying.org][The Top Five Regrets of The Dying]], [[file:20210101211751-bronnie_ware.org][Bronnie Ware]] describe the top five regrets of the dying (she was a nurse in palliative care). To shortly recap, the five regrets are:
+
+1. I wish I hadn't worked so hard
+2. I wish I'd had the courage to live a life true to myself
+3. I wish I'd let myself be happier
+4. I wish I'd had the courage to express my feelings
+5. I wish I'd kept in touch with my friends
+
+From that and based on what [[file:20210101211106-ali_abdaal.org][Ali Abdaal]] described in his video [[https://www.youtube.com/watch?v=WQWiLZ1M6xw&feature=share][20 Life Lessons I Learned in 2020]] (based on this [[http://www.paulgraham.com/todo.html][Post by Paul Graham]]) these are the five things that matter:
+
+1. Don't ignore your dreams
+2. Don't work too much
+3. Say what you think
+4. Cultivate friendships
+5. (Try to) be happy
+
+*** The 4 components of an ideal life
+
+Taken from [[file:20210101211106-ali_abdaal.org][Ali Abdaal's]] video on [[https://www.youtube.com/watch?v=WQWiLZ1M6xw&feature=share][20 Life Lessons I Learned in 2020]] - He got it from this [[https://podcastnotes.org/save-planet-get-rich/naval-ravikant-achieving-happiness/][Podcast Episode]]. According to it, the 4 components of an ideal life, are (in order):
+
+1. Physical Health
+2. Mental Health (/Happiness/Well-Being)
+3. Relationships
+4. Money/Work
+
+** Lean into the Fear
+
+If you're feeling scared to do something (that is not harmful to you) you should lean into it. I had great success with this, when I battled my phobia of social interactions. If there's something you want to ask in a university course, DO IT. If you can opt in to do a presentation at work or university, DO IT. If you have to tell somebody what you feel, DO IT. *EVERY, SINGLE* time I went and these things I was always better of, more self-confident and overall happier in the long term.
+** Say No
+
+Don't try to please everyone around you. You have to make it clear and not to unmistakenable if there is something you do not want to do. Don't pander around and try to look for an excuse, you don't have to mention your reasoning most of the time, so don't do that.
+
+* Methods
+** The Odyssey Plan
+
+Taken from [[file:20210101211106-ali_abdaal.org][Ali Abdaal's]] video on [[https://www.youtube.com/watch?v=WQWiLZ1M6xw&feature=share][20 Life Lessons I Learned in 2020]]. The exercise consits of answering three questions:
+
+1. Write out what your life will look like 5 years from now if you go down your current path.
+2. Write out what your life will look like 5 years from now if you take a completely different path.
+3. Write out what your life will look like 5 years from now if money and social obligations are not a factor.
+
+*** TODO Look for the original source

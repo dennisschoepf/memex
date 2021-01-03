@@ -1,0 +1,23 @@
+#+title: Human Computer Interaction
+
+* Definition
+* Overview
+* Important Concepts
+
+- [ ] Add context backlink here
+
+* Sub-Fields
+** Sustainable HCI
+*** Landscape
+
+- [[https://dl.acm.org/doi/pdf/10.1145/1753326.1753625][Sustainable HCI Landscape (2010)]]
+
+*** Approaches
+
+- [ ] Active and passive interactions - Backlink to Persuasive Technology
+
+* Research methods
+** Design-Focussed
+
+- [[file:20201230225610-participatory_design.org][Participatory Design]]
+- [[file:20201230232807-storyboarding.org][Storyboarding]] & [[file:20201230222717-comicboarding.org][Comicboarding]]

@@ -1,0 +1,7 @@
+#+title: Digital Me
+
+* Resources (Draft)
+
+- [[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.458.160&rep=rep1&type=pdf][Digital.me - towards an Integrated Personal Information Sphere]]
+- [[https://library.oapen.org/bitstream/handle/20.500.12657/27711/1002295.pdf?sequence=1#page=168][Digital Me: Controlling and making sense of my digital footprint]]
+- [[https://sse-rwth.de/publications/Architecting-Cloud-Services-for-the-Digital-me-in-a-Privacy-Aware-Environment.pdf][Architecting Cloud Services for the Digital Me in a Privacy Aware Environment]]

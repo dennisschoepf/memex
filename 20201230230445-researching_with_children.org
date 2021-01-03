@@ -1,0 +1,17 @@
+#+title: Researching with Children
+
+* Summary
+
+Following are listed some possible approaches on gathering data from children. Examples include [[file:20201230222717-comicboarding.org][Comicboarding]] and [[file:20201230235303-fictional_inquiry.org][Fictional Inquiry]] that are or can be specially altered to be able to gather data from and with children.
+
+* List of Methods
+
+- [[https://dl.acm.org/doi/pdf/10.1145/3025453.3025588][Co-Designing with Preschoolers using Fictional Inquiry and Comicboarding]]
+- [[https://dl.acm.org/doi/pdf/10.1145/1240624.1240832][Comicboarding: Using Comics as Proxies for Participatory Design with Children]]
+- [[https://dl.acm.org/doi/pdf/10.1145/3213818.3213825][Designing with and for preschoolers: A Method to Observe Tangible Interactions with Spatial Manipulatives]]
+- [[https://dl.acm.org/doi/pdf/10.1145/2207676.2208399][Interpreting Input from Children: A Designerly Approach]]
+- [[https://dl.acm.org/doi/pdf/10.1145/3027063.3053343][Chinese Preschoolers as Design Partners]]
+
+* Exemplary Applications
+
+- [[http://www.jucs.org/jucs_19_15/nik_vision_developing_a/jucs_19_15_2266_2291_marco.pdf][Developing a Tangible Application for and with Children]]

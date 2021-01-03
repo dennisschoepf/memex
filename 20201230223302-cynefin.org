@@ -1,0 +1,42 @@
+#+title: Cynefin
+
+* Summary
+
+Originally created by Dave Snowden in 1999 in the Harvard Business Review. An attempt on creating a frameowrk for tackling and regaining control of situations by categorizing them. Different approaches on handling the situation are presented depending on the category of the situation. The framework aims to sort issues sorrounding a situation into five contexts (=categories) defined by their cause and effect. For every category but the "disorder" one, contextually certain actions are recommended. Situations and issues can move between the categories and lie on a spectrum within the category.
+
+* The origin (A Leader's Framework For Decision Making)
+** Critical remarks / Further (personal) research needed
+*** Notes
+**** Overall:
+
+- What is complexity science? Is it a strongly defined field of research? References?
+- Good leadership is not a one-size fits all approach: "Isn't a single framework exactly that?"
+- Leaders subjectively categorizing past events
+- How did he figure out the responses? Aren't they a "one-size-fits-all" kind of thing?
+- How do different perspectives on a subject work with the framework?
+- The examples are very general
+- "As a result, a security guard submitted a design for a shoe that became one of their best sellers." Doesn't happen every time, right?
+- Only good examples, no limitations
+- Aren't complex situations only complicated situations where we currently do not have the cognition (computation) to factor in all variables?
+- Arguments are often just stated without concrete proof
+- Actual methods or characteristics this ominous leaders has are missing
+- Hinsight 20/20 concerning the examples - Would have liked to see an approach in detail where this framework was applied in situ
+
+**** Simple:
+
+- Decisions are unquestioned? When is that actually the case?
+- Can sticking to simple solutions sometimes hinder innovation? Not described how to learn from that?
+- Aren't there multiple right answers sometimes also for simple contexts?
+
+**** Complicated:
+
+- Not everyone can see the cause effect relationship -> Who is able to see it then?
+- What is meant with maverick concepts / And how can non-experts with bad ideas be differentiated from non-experts with innovative approaches?
+
+**** Complex:
+
+- What if you cannot wait patiently until the path reveals itself?
+
+**** Chaotic:
+
+- Complex situations that are perceived as chaotic?

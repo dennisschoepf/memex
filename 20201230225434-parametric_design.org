@@ -1,0 +1,9 @@
+#+title: Parametric Design
+
+* Overview
+
+[[https://www.sciencedirect.com/topics/engineering/parametric-design][ScienceDirect Parametric Design Overview]]
+
+* Possible Designs
+
+- Voronoi

@@ -1,0 +1,17 @@
+#+title: Data Physicalization
+
+* Resources (Draft)
+
+- [[https://dl.acm.org/doi/pdf/10.1145/3393914.3395892][Curating Data]]
+- [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4577990][Beyond the tyranny of the pixel]]
+- [[http://dataphys.org/][Data Physicalization Wiki]]
+- [[https://giv.cpsc.ucalgary.ca/pdf/vahab.pdf][Data Spatialization (Catoptric Anamorphosis)]]
+- Data objects: Design principles `Sosa et al. Data Objects: Design Principles for Data Physicalization. DESIGN 2018 - International Design Conference .`
+- [[https://dl.acm.org/doi/pdf/10.1145/2470654.2481359][Evaluating the efficiency of data physicalization]]
+- [[http://edutechwiki.unige.ch/en/Physical_visualization][LEGO Physicalization]]
+
+* Examples
+
+- https://dl.acm.org/doi/pdf/10.1145/2702123.2702180
+- https://dl.acm.org/doi/pdf/10.1145/2839462.2854112 -> In context with children
+- https://dl.acm.org/doi/pdf/10.1145/3173225.3173338

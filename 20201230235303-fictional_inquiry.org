@@ -1,0 +1,3 @@
+#+title: Fictional Inquiry
+
+* TODO Add literature from Advanced Contextual Interfaces Assignment

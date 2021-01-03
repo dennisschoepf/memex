@@ -1,0 +1,5 @@
+#+title: Ephemeral Interfaces
+
+* Draft
+
+Interfaces that degrade over time or vanish at certain points in the interaction.

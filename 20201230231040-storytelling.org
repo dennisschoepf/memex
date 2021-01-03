@@ -1,0 +1,6 @@
+#+title: Storytelling
+
+* Resources
+
+- [[file:20210101222835-seven_pillars_of_storytelling.org][Seven Pillars of Storytelling]]
+- [[file:20210101223244-storyworthy.org][Storyworthy]]

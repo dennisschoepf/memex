@@ -1,0 +1,11 @@
+#+title: Computer Vision
+
+* Frameworks
+** General computer vision
+
+- [[https://opencv.org/][OpenCV]]
+
+** Marker Tracking
+
+- Reactivision
+- [[https://www.slideshare.net/JensGrubert/a-short-introduction-to-computer-visionbased-marker-tracking][Introduction to vision-based marker tracking]]

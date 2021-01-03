@@ -1,0 +1,20 @@
+#+title: Special Interaction Modalities
+
+* Summary
+
+Following are rarely used or otherwise special interaction modalities that could be used in technological interactions in an [[file:20201230224436-human_computer_interaction.org][Human Computer Interaction]] context.
+
+* Possible Modalities
+**  Heartbeat
+
+Can be used as an input or output (see Smartwatch example) for interactive systems. Very personal characteristic, where usage has to follow ethical guidelines. It can be considered as a very affective method of communication (e.g. [[https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5611482][Intimate Heartbeats]]).
+
+*** Examples
+
+- [[https://dl.acm.org/doi/abs/10.1145/3152832.3152863][Lifetact: Utilizing smartwatches as tactile heartbeat displays in video games]]
+- [[https://dl.acm.org/doi/pdf/10.1145/2667317.2667331][Heartbeat: Experience the Pulse of an Electric Vehicle]]
+- [[https://dl.acm.org/doi/pdf/10.1145/1518701.1519033][Heartbeat: An Outdoor Pervasive Game for Children]]
+
+** Smell
+
+Olfactory output could be possible
