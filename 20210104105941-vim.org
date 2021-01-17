@@ -1,0 +1,7 @@
+#+title: Vim
+
+A terminal based text editor.
+
+* Helpful Resources
+
+- [[https://www.youtube.com/watch?v=bshMXXX40_4&feature=share][DT How Vim can save you hours of work]]

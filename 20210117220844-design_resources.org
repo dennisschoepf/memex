@@ -1,0 +1,95 @@
+#+title: Design Resources
+
+Here are a lot of the resources I find myself using often to quickly create mockups, prototypes, presentations and also production sites.
+
+* Inspiration
+** Websites & Web-Apps
+
+- [[https://nicelydone.club/products][NicelyDone Products]]
+- [[https://land-book.com/][Land-Book]]
+- [[https://www.siteinspire.com/][Siteinspire]]
+- [[https://bestwebsite.gallery/][Best Website Gallery]]
+- [[https://www.behance.net/search/projects/?field=102&sort=appreciations&time=week][Behance Web Design Projects]]
+- [[https://www.awwwards.com/][Awwwards]]
+- [[https://www.bestfolios.com/portfolios][Bestfolios]]
+
+** Specific Interactions
+
+- [[https://nicelydone.club/patterns][NicelyDone Patterns]]
+- [[https://pageflows.com/][Pageflows]]
+- [[https://mobbin.design/][Mobile Patterns @ Mobbin.Design]]
+
+** Blogs
+
+- [[https://abduzeedo.com/][Abduzeedo]]
+
+** General design inspiration
+
+- [[https://www.designspiration.com/][Designspiration]]
+- [[https://www.behance.net/search/projects/?field=102&sort=appreciations&time=week][Behance]]
+- [[https://dribbble.com/][Dribbble]]
+
+* Colors
+** Finding examples by color
+
+Dribbble offers the option to browse shots by color at this [[https://dribbble.com/?color=E5D1FA][link]].
+
+** Color Palettes
+
+At [[https://color.adobe.com/de/explore][Adobe Colors]] there are a whole lot of different color palettes searchable by colors, keywords and more. Many of those are accompanied by respective real-world pictures.
+
+** Color Schemes Generator
+
+[[https://coolors.co/][Coolors.co]] is a color scheme generator featuring a lot of different color palette options. The color palettes vary a bit more than most of Adobe's featured ones.
+
+** Gradients
+
+You can find a large gradient library at [[https://webgradients.com/][Web Gradients]].
+
+** Tools
+
+To create /duotone/ images you can use [[https://duotone.shapefactory.co/?f=e6333f&t=2f3e47&q=_][DuoTone by ShapeFactory]].
+
+* Illustrations
+** Figure / People Illustrations
+
+- [[https://www.humaaans.com/][Humaaans]]
+- [[https://undraw.co/illustrations][UnDraw]]
+- [[https://illlustrations.co/][Illustrations.co]]
+- [[https://products.ls.graphics/wrrooom/?ref=land-book.com][Illustration Constructor for Figma and Sketch (Paid)]]
+
+** Pattern Illustrations
+
+- [[https://www.heropatterns.com/][HeroPatterns]]
+
+* Icons
+** Icon Sets
+
+- [[https://heroicons.com/][Hero Icons]]
+- [[https://remixicon.com/][Remix Icons]]
+
+* Fonts
+** Font Combinations
+*** Fonts in Use
+
+[[https://fontsinuse.com/][Fonts in Use]] is a website showcasing interesting font combinations that work well together. All of the example combinations are coupled with their application making it easy to select fonts for different use cases.
+
+*** FontPair
+
+[[https://fontpair.co/][FontPair]] is a website that showcases different font combinations. Its main distinct feature is the option to search for different combinations based on the overall font type (e.g. Sans-Serif + Serif, ...)
+
+*** Discover Typography by Hoefler&Co
+
+A collection of "artsy" fonts by one of the most reputable font design agencies can be found [[https://discover.typography.com/][here]]. More at home for offline use cases, but can serve as good inspiration for the web as well.
+
+** Font Resources
+
+- [[https://fonts.google.com/][Google Fonts]]
+- [[https://www.dafont.com/de/][DaFont]]
+- [[https://www.fontsquirrel.com/][Font Squirrel]]
+- [[https://hanken.co/][Hanken Co]]
+** Font Knowledge
+
+- [[http://universaltypography.com/][Universal Typography]]
+- [[https://typographyhandbook.com/][Typography Handbook]]
+- [[https://designmodo.com/type-rules-ux/][UX Typography Rules]]

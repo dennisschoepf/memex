@@ -1,7 +1,11 @@
 #+TITLE: Read
 
-* TODO [[file:20210101223831-human_kind.org][Human Kind]]
-* TODO [[file:20210101223746-the_psychology_of_money.org][The Psychology of Money]]
-* TODO [[file:20210101223244-storyworthy.org][Storyworthy]]
-* TODO [[file:20210101223553-a_million_miles_in_a_thousand_years.org][A Million Miles In A Thousand Years]]
-* TODO [[file:20210101222835-seven_pillars_of_storytelling.org][Seven Pillars of Storytelling]]
+* Books
+** TODO [[file:20210101223831-human_kind.org][Human Kind]]
+** TODO [[file:20210101223746-the_psychology_of_money.org][The Psychology of Money]]
+** TODO [[file:20210101223244-storyworthy.org][Storyworthy]]
+** TODO [[file:20210101223553-a_million_miles_in_a_thousand_years.org][A Million Miles In A Thousand Years]]
+** TODO [[file:20210101222835-seven_pillars_of_storytelling.org][Seven Pillars of Storytelling]]
+
+* Articles
+** TODO [[https://hbr.org/2010/07/how-will-you-measure-your-life][How will you measure your life - Harvard Business Review]]
