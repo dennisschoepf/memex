@@ -1,0 +1,16 @@
+#+TITLE: Watch
+
+* Movies
+
+- [[https://www.imdb.com/title/tt0119396/?ref_=nm_flmg_wr_18][Jackie Brown, Tarantino]]
+- [[https://www.imdb.com/title/tt0378194/?ref_=nm_flmg_wr_15][Kill Bill (Vol. 2)]]
+- [[https://www.imdb.com/title/tt0378194/?ref_=nm_flmg_wr_15][Kill Bill (Vol. 1)]]
+- [[https://www.imdb.com/title/tt3460252/?ref_=nm_knf_t3][The Hateful Eight]]
+- [[https://www.imdb.com/title/tt3460252/?ref_=nm_knf_t3][Reservoir Dogs]]
+- [[https://www.imdb.com/title/tt3460252/?ref_=nm_knf_t3][Three Billboards Outside Ebbing, Missouri]]
+- [[https://www.imdb.com/title/tt0357413/?ref_=fn_al_tt_1][Anchorman]]
+
+* Series
+
+- [[https://www.imdb.com/title/tt8111088/?ref_=fn_al_tt_1][The Mandalorian]]
+- [[https://www.imdb.com/title/tt2467372/?ref_=nv_sr_srsg_0][Brooklyn Nine Nine (Season 6)]]
