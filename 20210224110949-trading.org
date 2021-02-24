@@ -1,0 +1,6 @@
+#+title: Trading
+
+* Low-Frequency
+** Resources
+*** Offline Algorithms in Low-Frequency Trading | Hacker News
+https://news.ycombinator.com/item?id=25968348

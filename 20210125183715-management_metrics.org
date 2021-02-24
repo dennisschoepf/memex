@@ -1,0 +1,5 @@
+#+title: Management Metrics
+
+* Articles
+** How management by metrics leads us astray
+https://jakobgreenfeld.com/metrics

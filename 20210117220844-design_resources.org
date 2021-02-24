@@ -51,6 +51,10 @@ You can find a large gradient library at [[https://webgradients.com/][Web Gradie
 To create /duotone/ images you can use [[https://duotone.shapefactory.co/?f=e6333f&t=2f3e47&q=_][DuoTone by ShapeFactory]].
 
 * Illustrations
+** Creating on my own
+
+- [[https://galshir.com/pose-app/][Pose App]] to create specific poses
+
 ** Figure / People Illustrations
 
 - [[https://www.humaaans.com/][Humaaans]]
@@ -67,6 +71,7 @@ To create /duotone/ images you can use [[https://duotone.shapefactory.co/?f=e633
 
 - [[https://heroicons.com/][Hero Icons]]
 - [[https://remixicon.com/][Remix Icons]]
+- [[https://iconduck.com][Icon duck]]
 
 * Fonts
 ** Font Combinations

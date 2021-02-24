@@ -1,0 +1,4 @@
+#+title: Chess
+
+* Learning Material
+** [[https://www.chesstactics.org/][Chess Tactics]]

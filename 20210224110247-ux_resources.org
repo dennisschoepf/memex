@@ -1,0 +1,9 @@
+#+title: UX Resources
+
+* Articles
+** Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites
+https://webtransparency.cs.princeton.edu/dark-patterns/
+
+
+** Creative Good: Why I'm losing faith in UX
+https://creativegood.com/blog/21/losing-faith-in-ux.html

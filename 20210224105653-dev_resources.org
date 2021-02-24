@@ -1,0 +1,17 @@
+#+title: Dev Resources
+
+* Frameworks
+** Frontend
+
+*** To watch
+**** </> htmx - high power tools for html
+https://htmx.org/
+** Backend
+** Databases
+*** Litestream
+
+https://litestream.io/blog/why-i-built-litestream/ is a backup service for sqlite3 databases.
+
+* Misc. Articles
+** My Third Year as a Solo Developer · mtlynch.io
+https://mtlynch.io/solo-developer-year-3/
