@@ -1,0 +1,60 @@
+#+title: Play Matters
+
+* Description
+
+A book by Miguel Sicart on Play in our world and how it affects what we do. There is some accomapnying material on [[https://playmatters.cc][Play Matters]] (It was not updated since 2017 though).
+
+* Key Things to explore further
+
+Collective Play, Play as exploration, Contextual Play (explore the context of software dev), Motivation to play, Desctructive and Corruptive Play, Learning through mistakes, errors, corruption, Play as a way of QA/Testing?
+
+* Notes
+** Chapter 1 - Play Is
+
+"To play is to be in the world. Playing is a form of understanding what surrounds us, and a way of engaging with others." (p. 1)
+
+Play Matters as an extension of the canon of Huizingan Play (see Note 1.4 in the book for the canon) (p. 1). Huizinga as a foundation for understanding but Play Matters (p. 2) markedly post-Huizingan
+
+Critique of Huizinga by Henricks, 2006
+
+Play as a portable tool for being instead of its meaning being derived from particular objects or games. It is brought by complex interrelations between people (-> Entanglement Theory connection?). Play as a personal expression of beauty, moral values, ... (p. 2)
+
+Play not opposing to reality, work, ... (not seperate as it was originally described by Huizinga) - It exists in all of them and is a way of being (see Note 1.7)
+
+"Collective play is a balancing act of egos and interests, of puproses and intentions" (p. 3)
+
+"Play is a movement between order and chaos" (p. 3)
+
+"Games don't matter that much. They are a manifestation, a form of and for play, just not the only one"
+
+Against play as a instrumentalized, mechanistic way of thinking chamined by postmodern culture industries (p. 5) - Against efficiency, seriousness and technical determinism
+
+"Play not as an activity of consumption but as as an activity of production [...] play is a way of engaging and expressing our being in the world" (p. 5)
+
+Play is needed to decouple and free oneself from the conventional moral fabric of society, to take another perspective on how important they are
+
+Play is highly resitant to formal understanding - Therefore trying to understand play and why it matters, rathern than formall defining it
+
+Play is contextual. Contextual in the sense of Network-Actor-Theory of people, rules, negotiations, locations, and objects (p. 6) (see Note 1.21 for references)
+
+"Almost any space can become a playground", "Players interpret spaces and situations as potentially open to play when they percieve those cues" (p. 7) (see Note 1.25)
+
+"Rules are facilitators that create a context of play, frames within which play takes place" (see Note 1.29) Rules are necessary but not sufficient, there is a need for players and a will to play (MOTIVATION) - Rules not as immutable things, rather open to discussion and interpretation
+
+Pleasure of destructive play, Apollonian world building vs Dionysiac destruction (p. 10)
+
+"Laughter requires freedom, an opening from the institutional world, but it also creates freedom" (p. 11)
+
+"What used to be a parking lot becomes a battlefield, reclaiming the ground for pleasure (p. 12)"
+
+"Play is disruptive" (p. 14) It takes over the situation and breaks state of affairs
+
+(P. 15 !!) -> in that move, we reveal the inner workings of the context that we inhabit
+
+"Play is the act of creatively engaging with the world, with technologies, contexts, and objects, from games to toys to playgrounds, exploring them through ludic interaction" (p. 17)
+
+Play is personal and finding expression - It lets us understand the world and lead for knowledge, challenge the established and creating new ties of breaking old ones (p. 18)
+
+"Play is like language -- a way of being in the world, of making sense of it."
+
+** Chapter 2 - Playfulness
