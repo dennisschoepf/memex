@@ -1,0 +1,5 @@
+#+title: Microservices
+
+* Critique & Considerations
+** MonolithFirst - Martin Fowler
+https://martinfowler.com/bliki/MonolithFirst.html
